@@ -14,20 +14,20 @@ All courses and projects on Machine Learning and Artificial Intelligence that I 
 
 ## Tools & Libraries
 
-- Python
-- Amazon Web Service
+- [python](https://www.python.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [spaCy](https://spacy.io/)
+- [Hugging Face: Transformers](https://huggingface.co/docs/transformers/index)
+- [PyTorch](https://pytorch.org/)
+- [Amazon Web Service]((https://aws.amazon.com/))
   - EC2
   - S3
   - RDS
   - Comprehend
   - Rekognition
   - EMR
-- SQL
+- [MySQL](https://www.mysql.com/)
 - Apache
-  - HIVE
-  - Hadoop
-  - Spark
-- TensorFlow
-- Torch
-- spaCy
-- Hugging Face: Transformers
+  - [HIVE]((https://hive.apache.org/))
+  - [Hadoop](https://hadoop.apache.org/)
+  - [Spark](https://spark.apache.org/)
