@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: Machine Learning and Artificial Intelligence Course and Projects
 description: All courses and projects on Machine Learning and Artificial Intelligence that I have cleared and might be helpful for anyone hoping to improve their skills and grow their experience.
+
+theme: jekyll-theme-cayman
