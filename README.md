@@ -23,8 +23,8 @@ All courses and projects on Machine Learning and Artificial Intelligence that I 
   - Rekognition
   - EMR
 - SQL
-- HIVE
 - Apache
+  - HIVE
   - Hadoop
   - Spark
 - TensorFlow
