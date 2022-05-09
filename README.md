@@ -17,7 +17,17 @@ All courses and projects on Machine Learning and Artificial Intelligence that I 
 
 ## Guides
 
-- [Data Science Interview Guide](Data_Science_Interview_Guide.pdf)
+- [Data Science Interview Guide](Guides/Data_Science_Interview_Guide.pdf)
+- [Data Science with Python Workflow](Guides/Data_Science_with_Python_Workflow.pdf)
+- [Data Science](Guides/Data_Science.jpeg)
+- [Machine Learning Regression](Guides/Machine_Learning_Regression.pdf)
+- [Matplotlib](Guides/Matplotlib.pdf)
+- [Pandas 1](Guides/Pandas_1.pdf)
+- [Pandas 2](Guides/Pandas_2.pdf)
+- [Python List Comprehensions](Guides/Python_List_Comprehensions.pdf)
+- [Seaborn](Guides/Seaborn.pdf)
+- [Segmentation and Clustering](Guides/Segmentation_and_Clustering.pdf)
+- [SQL to Hive](Guides/SQL_to_Hive.pdf)
 
 ## Tools & Libraries
 
