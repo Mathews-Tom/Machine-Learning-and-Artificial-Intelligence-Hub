@@ -6,7 +6,7 @@ All courses and projects on Machine Learning and Artificial Intelligence that I 
 
 - [Master of Science in Machine Learning & Artificial Intelligence](https://github.com/Mathews-Tom/MSc_in_Machine_Learning_and_Artificial_Intelligence) - Master of Science in Machine Learning & Artificial Intelligence by UpGrad in collaboration with Indian Institute of Technology, Madras & Liverpool John Moores University.
 
-- [Deep Learning Specialization](https://github.com/Mathews-Tom/Deep_Learning_Specialization)
+- [Deep Learning Specialization](https://github.com/Mathews-Tom/Deep_Learning_Specialization) - The Deep Learning Specialization, by DeepLearning.AI, is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. 
 
 ## Projects
 
