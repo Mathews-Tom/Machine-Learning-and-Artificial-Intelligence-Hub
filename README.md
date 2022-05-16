@@ -34,7 +34,7 @@ All courses and projects on Machine Learning and Artificial Intelligence that I 
 - [Segmentation and Clustering](Guides/Segmentation_and_Clustering.pdf)
 - [SQL to Hive](Guides/SQL_to_Hive.pdf)
 
-# Books
+## Books
 
 - [Hands On Machine Learning with Scikit Learn Keras and Tensorflow - 2nd Edition](Books/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_Tensorflow-2nd_Edition.pdf)
 
