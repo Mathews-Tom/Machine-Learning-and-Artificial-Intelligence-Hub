@@ -20,7 +20,7 @@ All courses and projects on Machine Learning and Artificial Intelligence that I 
 - [E Commerce Dataset Analysis](https://github.com/Mathews-Tom/E_Commerce_Dataset_Analysis) - Use your skills and understanding of HIVE and Hadoop concepts to extract data, load data into HIVE tables and gather insights from the data set.
 - [Deep Neural Networks Examples](https://github.com/Mathews-Tom/Deep_Neural_Networks_Examples)
 
-## [Guides](Guides)
+## Guides
 
 - [Data Science Interview Guide](Guides/Data_Science_Interview_Guide.pdf)
 - [Data Science with Python Workflow](Guides/Data_Science_with_Python_Workflow.pdf)
@@ -34,7 +34,7 @@ All courses and projects on Machine Learning and Artificial Intelligence that I 
 - [Segmentation and Clustering](Guides/Segmentation_and_Clustering.pdf)
 - [SQL to Hive](Guides/SQL_to_Hive.pdf)
 
-# [Books](Books)
+# Books
 
 - [Hands On Machine Learning with Scikit Learn Keras and Tensorflow - 2nd Edition](Books/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_Tensorflow-2nd_Edition.pdf)
 
