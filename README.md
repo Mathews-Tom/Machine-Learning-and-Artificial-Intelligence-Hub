@@ -1,4 +1,4 @@
-# Machine Learning and Artificial Intelligence Course and Projects
+# Machine Learning and Artificial Intelligence Courses, Projects and Resources
 
 [![Visits Badge](https://badges.pufler.dev/visits/Mathews-Tom/MSc_in_Machine_Learning_and_Artificial_Intelligence)](#)
 [![Languages](https://img.shields.io/github/languages/count/Mathews-Tom/MSc_in_Machine_Learning_and_Artificial_Intelligence)](#)
