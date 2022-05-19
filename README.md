@@ -24,17 +24,21 @@ All courses, projects and resources on Machine Learning and Artificial Intellige
 
 ## Guides
 
-- [Data Science Interview Guide](Guides/Data_Science_Interview_Guide.pdf)
-- [Data Science with Python Workflow](Guides/Data_Science_with_Python_Workflow.pdf)
-- [Data Science](Guides/Data_Science.jpeg)
-- [Machine Learning Regression](Guides/Machine_Learning_Regression.pdf)
-- [Matplotlib](Guides/Matplotlib.pdf)
-- [Pandas Basics](Guides/Pandas_Basics.pdf)
-- [Pandas - Data Wrangling](Guides/Pandas_Data_Wrangling)
-- [Python List Comprehensions](Guides/Python_List_Comprehensions.pdf)
-- [Seaborn](Guides/Seaborn.pdf)
-- [Segmentation and Clustering](Guides/Segmentation_and_Clustering.pdf)
-- [SQL to Hive](Guides/SQL_to_Hive.pdf)
+- [Data Science](Guides/Data_Science/)
+  - [Data Science Interview Guide](Guides/Data_Science/Data_Science_Interview_Guide.pdf)
+  - [Data Science with Python Workflow](Guides/Data_Science/Data_Science_with_Python_Workflow.pdf)
+  - [Data Science](Guides/Data_Science/Data_Science.jpeg)
+- [Machine Learning & Artificial Intelligence](Guides/ML_AI/)
+  - [Machine Learning Regression](Guides/ML_AI/Machine_Learning_Regression.pdf)
+  - [Segmentation and Clustering](Guides/ML_AI/Segmentation_and_Clustering.pdf)
+- [Python](Guides/Python)
+  - [Matplotlib](Guides/Python/Matplotlib.pdf)
+  - [Pandas Basics](Guides/Python/Pandas_Basics.pdf)
+  - [Pandas - Data Wrangling](Guides/Python/Pandas_Data_Wrangling)
+  - [Python List Comprehensions](Guides/Python/Python_List_Comprehensions.pdf)
+  - [Seaborn](Guides/Python/Seaborn.pdf)
+- [Query Language](Guides/Query_Language)
+  - [SQL to Hive](Guides/Query_Language/SQL_to_Hive.pdf)
 
 ## Books
 
