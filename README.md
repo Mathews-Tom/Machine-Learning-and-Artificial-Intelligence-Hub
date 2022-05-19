@@ -32,6 +32,7 @@ All courses, projects and resources on Machine Learning and Artificial Intellige
   - [Machine Learning Regression](Guides/ML_AI/Machine_Learning_Regression.pdf)
   - [Segmentation and Clustering](Guides/ML_AI/Segmentation_and_Clustering.pdf)
 - [Python](Guides/Python)
+  - [Efficient Python Tricks and Tools for Data Scientists](Guides/Python/Efficient_Python_Tricks_and_Tools_for_Data_Scientists.pdf)
   - [Matplotlib](Guides/Python/Matplotlib.pdf)
   - [Pandas Basics](Guides/Python/Pandas_Basics.pdf)
   - [Pandas - Data Wrangling](Guides/Python/Pandas_Data_Wrangling)
