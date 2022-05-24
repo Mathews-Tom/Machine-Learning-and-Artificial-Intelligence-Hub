@@ -22,6 +22,10 @@ All courses, projects and resources on Machine Learning and Artificial Intellige
 - **[E Commerce Dataset Analysis](https://github.com/Mathews-Tom/E_Commerce_Dataset_Analysis)** - Use your skills and understanding of HIVE and Hadoop concepts to extract data, load data into HIVE tables and gather insights from the data set.
 - **[Deep Neural Networks Examples](https://github.com/Mathews-Tom/Deep_Neural_Networks_Examples)** - Deep Neural Network examples to represent different concepts in Deep Neural Networks. Projects / Examples part of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
+## Books
+
+- [Hands On Machine Learning with Scikit Learn Keras and Tensorflow - 2nd Edition](Books/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_Tensorflow-2nd_Edition.pdf)
+
 ## Guides
 
 - [Data Science](Guides/Data_Science/)
@@ -41,9 +45,14 @@ All courses, projects and resources on Machine Learning and Artificial Intellige
 - [Query Language](Guides/Query_Language)
   - [SQL to Hive](Guides/Query_Language/SQL_to_Hive.pdf)
 
-## Books
+## Interview Sample Questions and Answers
 
-- [Hands On Machine Learning with Scikit Learn Keras and Tensorflow - 2nd Edition](Books/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_Tensorflow-2nd_Edition.pdf)
+- [40 Python Interview Questions](Interview_Sample_QnA/40_Python_Interview_Questions.pdf)
+- [41 Machine Learning Interview Essentials](Interview_Sample_QnA/41_Machine_Learning_Interview_Essentials.pdf)
+
+## Awesome Machine Learning Python Libraries
+
+[Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) - 🏆  A ranked list of awesome machine learning Python libraries. Updated weekly. This curated list contains 900 awesome open-source projects with a total of 3.4M stars grouped into 34 categories.
 
 ## Tools & Libraries
 
