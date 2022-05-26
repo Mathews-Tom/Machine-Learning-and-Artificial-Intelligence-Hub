@@ -21,6 +21,7 @@ All courses, projects and resources on Machine Learning and Artificial Intellige
 - **[Weather Prediction using Neural Network](https://github.com/Mathews-Tom/FormulaAIHackathon)** - Hackmakers Formula AI Hackathon 2022: Weather Prediction using Neural Network.
 - **[E Commerce Dataset Analysis](https://github.com/Mathews-Tom/E_Commerce_Dataset_Analysis)** - Use skills and understanding of HIVE and Hadoop concepts to extract data, load data into HIVE tables and gather insights from the data set.
 - **[Deep Neural Networks Examples](https://github.com/Mathews-Tom/Deep_Neural_Networks_Examples)** - Deep Neural Network examples to represent different concepts in Deep Neural Networks. Projects/Examples part of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
+- **[Market Basket Analysis using Apriori Algorithm & PySpark](https://github.com/Mathews-Tom/Market_Basket_Analysis_Apriori_PySpark)** - Market Basket Analysis is a **data mining** technique that helps to understand the relationship between the items sold by the company. As the name suggests, the method tries to analyse the customer basket or the transaction data to identify any association between items. The results from this analysis help the companies to develop marketing strategies to increase their revenue by gaining insight into which items are frequently purchased together by customers. This project aims at doing Market Basket Analysis using Apriori Algorithm & PySpark.
 
 ## Awesome Machine Learning Python Libraries
 
