@@ -50,6 +50,7 @@ All courses, projects and resources on Machine Learning and Artificial Intellige
   - [Seaborn](Guides/Python/Seaborn.pdf)
 - [Query Language](Guides/Query_Language)
   - [SQL to Hive](Guides/Query_Language/SQL_to_Hive.pdf)
+- [Data Structures and Algorithm](Guides/Data_Structures_and_Algorithm.pdf)
 
 ## Interview Sample Questions and Answers
 
