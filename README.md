@@ -15,6 +15,8 @@ All courses, projects and resources on Machine Learning and Artificial Intellige
 
 - **[MIT 6S.191 - Introduction to Deep Learning](https://github.com/Mathews-Tom/MIT_6S.191-Introduction_to_Deep_Learning)** - MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. Course concludes with a project proposal competition with feedback from staff and panel of industry sponsors. This repository contains all of the code and software labs for [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)! All lecture slides and videos are available on the course website.
 
+- **[TensorFlow 2x: Python Neural Networks](https://github.com/Mathews-Tom/Python_Neural_Networks_TensorFlow_2x) - Course on YouTube [TensorFlow 2.0 Complete Course - Python Neural Networks Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk) going over TensorFlow usage for Neural Networks
+
 ## Projects
 
 - **[EDA Bank Loan Default Risk Analysis](https://github.com/Mathews-Tom/EDA_Bank_Loan_Default_Risk_Analysis)** - The case study aims to provide an idea of applying EDA in a real business scenario. In this case study, apart from applying the techniques that you have learnt in the EDA module, you will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
