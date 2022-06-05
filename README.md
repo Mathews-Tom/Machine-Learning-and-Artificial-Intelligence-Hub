@@ -15,7 +15,9 @@ All courses, projects and resources on Machine Learning and Artificial Intellige
 
 - **[MIT 6S.191 - Introduction to Deep Learning](https://github.com/Mathews-Tom/MIT_6S.191-Introduction_to_Deep_Learning)** - MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. Course concludes with a project proposal competition with feedback from staff and panel of industry sponsors. This repository contains all of the code and software labs for [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)! All lecture slides and videos are available on the course website.
 
-- **[TensorFlow 2x: Python Neural Networks](https://github.com/Mathews-Tom/Python_Neural_Networks_TensorFlow_2x) - Course on YouTube [TensorFlow 2.0 Complete Course - Python Neural Networks Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk) going over TensorFlow usage for Neural Networks
+- **[TensorFlow 2x: Python Neural Networks](https://github.com/Mathews-Tom/Python_Neural_Networks_TensorFlow_2x)** - Course on YouTube [TensorFlow 2.0 Complete Course - Python Neural Networks Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk) going over TensorFlow usage for Neural Networks
+
+- **[Deep Learning with TensorFlow : Zero to Mastery](https://github.com/Mathews-Tom/Deep_Learning_with_TensorFlow_Zero_to_Mastery)** - An in depth course in Deep Learning and it's applications with TensorFlow. The goal of this course is to equip the learner with the skills necessary to clear the exam and get your [TensorFlow Developer Certification](https://www.tensorflow.org/certificate). 
 
 ## Projects
 
