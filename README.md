@@ -17,7 +17,7 @@ All courses, projects and resources on Machine Learning and Artificial Intellige
 
 - **[TensorFlow 2x: Python Neural Networks](https://github.com/Mathews-Tom/Python_Neural_Networks_TensorFlow_2x)** - Course on YouTube [TensorFlow 2.0 Complete Course - Python Neural Networks Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk) going over TensorFlow usage for Neural Networks
 
-- **[Deep Learning with TensorFlow : Zero to Mastery](https://github.com/Mathews-Tom/Deep_Learning_with_TensorFlow_Zero_to_Mastery)** - An in depth course in Deep Learning and it's applications with TensorFlow. The goal of this course is to equip the learner with the skills necessary to clear the exam and get your [TensorFlow Developer Certification](https://www.tensorflow.org/certificate). Course content is available as a playlist on YouTube, [TensorFlow Developer Certificate](https://www.youtube.com/playlist?list=PLcPS3izl8N5sxZa7Ceu4tv8Y7P4TG_mXE).
+- **[Deep Learning with TensorFlow](https://github.com/Mathews-Tom/Deep_Learning_with_TensorFlow_Zero_to_Mastery)** - An in depth course in Deep Learning and it's applications with TensorFlow. The goal of this course is to equip the learner with the skills necessary to clear the exam and get your [TensorFlow Developer Certification](https://www.tensorflow.org/certificate). Course content is available as a playlist on YouTube, [TensorFlow Developer Certificate](https://www.youtube.com/playlist?list=PLcPS3izl8N5sxZa7Ceu4tv8Y7P4TG_mXE).
 
 - **[Complete Python Developer](https://www.youtube.com/playlist?list=PLcPS3izl8N5tkpJcKq4PCL6qlQl-o3Gl8)** - A complete Python Developer course.
 
