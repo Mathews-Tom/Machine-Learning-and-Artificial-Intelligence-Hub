@@ -1,6 +1,7 @@
 # Machine Learning and Artificial Intelligence Hub - Courses, Projects and Resources
 
-[![Visits Badge](https://badges.pufler.dev/visits/Mathews-Tom/MSc_in_Machine_Learning_and_Artificial_Intelligence)](#)
+![VisitorsBadge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MSc_in_Machine_Learning_and_Artificial_Intelligence&color=55acb7&style=for-the-badge&logo=Github)    
+
 [![Languages](https://img.shields.io/github/languages/count/Mathews-Tom/MSc_in_Machine_Learning_and_Artificial_Intelligence)](#)
 [![Top Languages](https://img.shields.io/github/languages/top/Mathews-Tom/MSc_in_Machine_Learning_and_Artificial_Intelligence?style=flat-square
 )](#)
@@ -15,11 +16,13 @@ All courses, projects and resources on Machine Learning and Artificial Intellige
 
 - **[MIT 6S.191 - Introduction to Deep Learning](https://github.com/Mathews-Tom/MIT_6S.191-Introduction_to_Deep_Learning)** - MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. Course concludes with a project proposal competition with feedback from staff and panel of industry sponsors. This repository contains all of the code and software labs for [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)! All lecture slides and videos are available on the course website.
 
+- **[Complete Machine Learning and Data Science](https://github.com/Mathews-Tom/Complete_Machine_Learning_and_Data_Science)**.  The repository contains all of the code, notebooks, images and other materials related to the course [Complete Machine Learning and Data Science Bootcamp](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/) on [zerotomastery.io](https://zerotomastery.io/), **based on my course work**. Course' video content is available as a playlist on YouTube, [Complete Machine Learning and Data Science](https://www.youtube.com/playlist?list=PLcPS3izl8N5s69hbYc9N37fSIEw-RsljN) from [Artificial Intelligence](https://www.youtube.com/channel/UCIslxZbyug9pRg00plukOCA) channel.
+
 - **[TensorFlow 2x: Python Neural Networks](https://github.com/Mathews-Tom/Python_Neural_Networks_TensorFlow_2x)** - Course on YouTube [TensorFlow 2.0 Complete Course - Python Neural Networks Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk) going over TensorFlow usage for Neural Networks
 
-- **[Deep Learning with TensorFlow](https://github.com/Mathews-Tom/Deep_Learning_with_TensorFlow_Zero_to_Mastery)** - An in depth course in Deep Learning and it's applications with TensorFlow. The goal of this course is to equip the learner with the skills necessary to clear the exam and get your [TensorFlow Developer Certification](https://www.tensorflow.org/certificate). Course content is available as a playlist on YouTube, [TensorFlow Developer Certificate](https://www.youtube.com/playlist?list=PLcPS3izl8N5sxZa7Ceu4tv8Y7P4TG_mXE).
+- **[Deep Learning with TensorFlow](https://github.com/Mathews-Tom/Deep_Learning_with_TensorFlow)** - An in depth course on Deep Learning and it's applications with TensorFlow. The goal of this course is to equip the learner with the skills necessary to clear the exam and get your [TensorFlow Developer Certification](https://www.tensorflow.org/certificate). The repository contains all of the code, notebooks, images and other materials related to the course [TensorFlow Developer Certificate in 2022](https://zerotomastery.io/courses/learn-tensorflow/) on [zerotomastery.io](https://zerotomastery.io/), **based on my course work**. Course' video content is available as a playlist on YouTube, [TensorFlow Developer Certificate](https://www.youtube.com/playlist?list=PLcPS3izl8N5sxZa7Ceu4tv8Y7P4TG_mXE) from [Artificial Intelligence]() channel.
 
-- **[Complete Python Developer](https://www.youtube.com/playlist?list=PLcPS3izl8N5tkpJcKq4PCL6qlQl-o3Gl8)** - A complete Python Developer course.
+- **[Complete Python Developer](https://www.youtube.com/playlist?list=PLcPS3izl8N5tkpJcKq4PCL6qlQl-o3Gl8)** - A complete Python Developer course. The repository contains all of the code, notebooks, images and other materials related to the course [Complete Python Developer in 2022](https://zerotomastery.io/courses/learn-python/) on [zerotomastery.io](https://zerotomastery.io/), **based on my course work**. Course' video content is available as a playlist on YouTube, [Complete Python Developer](https://www.youtube.com/playlist?list=PLcPS3izl8N5tkpJcKq4PCL6qlQl-o3Gl8) from [Artificial Intelligence](https://www.youtube.com/channel/UCIslxZbyug9pRg00plukOCA) channel.
 
 ## Projects
 
