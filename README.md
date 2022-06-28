@@ -1,10 +1,9 @@
 # Machine Learning and Artificial Intelligence Hub - Courses, Projects and Resources
 
-![VisitorsBadge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MSc_in_Machine_Learning_and_Artificial_Intelligence&color=55acb7&style=for-the-badge&logo=Github)    
+![VisitorsBadge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Machine_Learning_and_Artificial_Intelligence_Hub&color=55acb7&style=for-the-badge&logo=Github)    
 
-[![Languages](https://img.shields.io/github/languages/count/Mathews-Tom/MSc_in_Machine_Learning_and_Artificial_Intelligence)](#)
-[![Top Languages](https://img.shields.io/github/languages/top/Mathews-Tom/MSc_in_Machine_Learning_and_Artificial_Intelligence?style=flat-square
-)](#)
+[![Languages](https://img.shields.io/github/languages/count/Mathews-Tom/Machine_Learning_and_Artificial_Intelligence_Hub)](#)
+[![Top Languages](https://img.shields.io/github/languages/top/Mathews-Tom/Machine_Learning_and_Artificial_Intelligence_Hub?style=flat-square)](#)
 
 All courses, projects and resources on Machine Learning and Artificial Intelligence that I have curated personally and always growing over the period of time. Anyone hoping to pursue through the Machine Learning and Artificial Intelligence industry, I hope might find the content helpful in learning, improving their skills and grow their experience or just find tools that might aid in the process.
 
