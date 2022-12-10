@@ -25,6 +25,8 @@ All courses, projects and resources on Machine Learning and Artificial Intellige
 
 ## Projects
 
+- **[YOLOv7 Multi-Person Pose Estimation](https://github.com/Mathews-Tom/YOLOv7-Multi-Person-Pose-Estimation)** - Multi-Person Pose Estimation using YOLOv7.
+
 - **[Food Vision](https://github.com/Mathews-Tom/Deep-Learning-with-TensorFlow/blob/main/Notebooks/07_Food_Vision_Milestone_Project_1.ipynb)** - Food vision project on Food101 dataset using transfer learning based on EfficienetNetB0 backbone with TensorFlow. The goal of beating [DeepFood](https://www.researchgate.net/publication/304163308_DeepFood_Deep_Learning-Based_Food_Image_Recognition_for_Computer-Aided_Dietary_Assessment), a 2016 paper which used a Convolutional Neural Network trained for 2-3 days to achieve 77.4% top-1 accuracy.
 - **[SkimLit](https://github.com/Mathews-Tom/Deep-Learning-with-TensorFlow/blob/main/Notebooks/09_SkimLit_NLP_Milestone_Project_2.ipynb)** - Replicated the deep learning model behind the 2017 paper [PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071). The goal of the dataset was to explore the ability for NLP models to classify sentences which appear in sequential order. 
 - **[Dog Vision](https://github.com/Mathews-Tom/Complete-Machine-Learning-and-Data-Science/blob/main/Notebooks/10-End_to_End_Dog_Vision.ipynb)** - Classify Different Dog Breeds using Transfer Learning and TensorFlow. Used data from the [Kaggle dog breed identification competition](https://www.kaggle.com/c/dog-breed-identification/overview). It consists of a collection of 10,000+ labelled images of 120 different dog breeds.
